@@ -1,0 +1,17 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+  }
+  
+#second {
+    color: aqua;
+    font-size: 36px;
+}
+.size {
+    font-size: 24px;
+  }
+#fourth {
+    background-color:aquamarine;
+    font-weight:bold;
+    font-size: 24px;
+}
